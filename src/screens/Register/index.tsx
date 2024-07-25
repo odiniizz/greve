@@ -21,7 +21,7 @@ export function Register({ navigation }: LoginTypes) {
             console.log(data)
         } else {
             Alert.alert("Preencha todos os campos!!!");
-        }
+        } //
     }
     function handleGoBack() {
         navigation.navigate('Login')
