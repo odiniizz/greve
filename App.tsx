@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 import { Slide1 } from "./src/screens/Slide1";
 import { Slide2 } from "./src/screens/Slide2";
-import { Slide3 } from "./src/screens/Slide3";
+import { Slide3 } from "./src/screens/Register";
 import { Slide4 } from "./src/screens/Slide4";
 import { Dispatch, SetStateAction, useState } from 'react'
 import { useFonts, Itim_400Regular } from '@expo-google-fonts/itim';
